@@ -1,0 +1,5 @@
+---
+- hosts: web
+  name: " Install apache service"
+  roles:
+    - apache
