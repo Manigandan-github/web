@@ -1,5 +1,5 @@
 ---
 - hosts: web
-  name: " Install apache service"
+  name: " Installing apache service"
   roles:
     - apache
